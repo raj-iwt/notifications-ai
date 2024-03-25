@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/notifications-ai/notifications.web/obj/Debug/net8.0/scopedcss/projectbundle/notifications.web.bundle.scp.css",
+      "PackagePath": "staticwebassets/notifications.web.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/notifications-ai/notifications.web/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/workspaces/notifications-ai/notifications.web/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/notifications-ai/notifications.web/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/notifications-ai/notifications.web/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.notifications.web.props",
+      "PackagePath": "build\\notifications.web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.notifications.web.props",
+      "PackagePath": "buildMultiTargeting\\notifications.web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.notifications.web.props",
+      "PackagePath": "buildTransitive\\notifications.web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.notifications.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

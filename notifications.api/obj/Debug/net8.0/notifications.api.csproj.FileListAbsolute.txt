@@ -1,0 +1,8 @@
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.csproj.AssemblyReference.cache
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.AssemblyInfoInputs.cache
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.AssemblyInfo.cs
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.csproj.CoreCompileInputs.cache
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/notifications-ai/notifications.api/obj/Debug/net8.0/notifications.api.sourcelink.json
